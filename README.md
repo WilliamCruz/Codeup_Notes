@@ -9,7 +9,12 @@ Regular font.
 1. item 4
 1. item 5     markdown feature will list numerically automatically.
 
---- three hyphens create a line in sublime.
+
+---
+
+
+
+three hyphens create a line in sublime.
 * first item
 * second item
 	*sub item a
@@ -24,6 +29,8 @@ echo "Hello world";
 if (condition) {
 	\\ do stuff
 }
+
 ```
+
 
 Finally, this is a last paragraph with **bold** text and *italics* and 'code'.
